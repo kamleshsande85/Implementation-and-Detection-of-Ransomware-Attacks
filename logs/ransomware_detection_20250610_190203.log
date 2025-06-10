@@ -1,0 +1,2 @@
+2025-06-10 19:02:03,581 - RansomwareDetector - INFO - Logging initialized to file: /home/kamli/scriptFile/ransomware-detector /ransomware_detector/logs/ransomware_detection_20250610_190203.log
+2025-06-10 19:02:04,090 - RansomwareDetector - INFO - Anomaly model trained with contamination=0.05

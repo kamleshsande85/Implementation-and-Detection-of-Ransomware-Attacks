@@ -1,0 +1,49 @@
+2025-06-10 19:07:05,841 - RansomwareDetector - INFO - Logging initialized to file: /home/kamli/scriptFile/ransomware-detector /ransomware_detector/logs/ransomware_detection_20250610_190705.log
+2025-06-10 19:07:06,359 - RansomwareDetector - INFO - Anomaly model trained with contamination=0.05
+2025-06-10 19:07:09,426 - RansomwareDetector - INFO - [BEHAVIORAL] Starting monitoring...
+2025-06-10 19:07:09,427 - RansomwareDetector - INFO - Started monitoring: /home/kamli/Documents
+2025-06-10 19:07:09,428 - RansomwareDetector - INFO - Started monitoring: /home/kamli/test_files
+2025-06-10 19:07:09,955 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/Documents
+2025-06-10 19:07:09,955 - RansomwareDetector - DEBUG - Found 3 files in /home/kamli/Documents
+2025-06-10 19:07:09,956 - RansomwareDetector - DEBUG - Found 1 files in /home/kamli/Documents/test
+2025-06-10 19:07:09,957 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/test_files
+2025-06-10 19:07:09,957 - RansomwareDetector - DEBUG - Found 0 files in /home/kamli/test_files
+2025-06-10 19:07:10,074 - RansomwareDetector - DEBUG - Total files: 4, CPU: 11.1, Files: ['/home/kamli/Documents/kamlesh', '/home/kamli/Documents/kamlitesting.txt.pdf', '/home/kamli/Documents/kamlitesting.txt', '/home/kamli/Documents/test/init.txt']
+2025-06-10 19:07:10,924 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/Documents
+2025-06-10 19:07:10,924 - RansomwareDetector - DEBUG - Found 3 files in /home/kamli/Documents
+2025-06-10 19:07:10,924 - RansomwareDetector - DEBUG - Found 1 files in /home/kamli/Documents/test
+2025-06-10 19:07:10,924 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/test_files
+2025-06-10 19:07:10,925 - RansomwareDetector - DEBUG - Found 0 files in /home/kamli/test_files
+2025-06-10 19:07:11,026 - RansomwareDetector - DEBUG - Total files: 4, CPU: 35.0, Files: ['/home/kamli/Documents/kamlesh', '/home/kamli/Documents/kamlitesting.txt.pdf', '/home/kamli/Documents/kamlitesting.txt', '/home/kamli/Documents/test/init.txt']
+2025-06-10 19:07:11,872 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/Documents
+2025-06-10 19:07:11,873 - RansomwareDetector - DEBUG - Found 3 files in /home/kamli/Documents
+2025-06-10 19:07:11,873 - RansomwareDetector - DEBUG - Found 1 files in /home/kamli/Documents/test
+2025-06-10 19:07:11,874 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/test_files
+2025-06-10 19:07:11,874 - RansomwareDetector - DEBUG - Found 0 files in /home/kamli/test_files
+2025-06-10 19:07:11,974 - RansomwareDetector - DEBUG - Total files: 4, CPU: 13.2, Files: ['/home/kamli/Documents/kamlesh', '/home/kamli/Documents/kamlitesting.txt.pdf', '/home/kamli/Documents/kamlitesting.txt', '/home/kamli/Documents/test/init.txt']
+2025-06-10 19:07:12,825 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/Documents
+2025-06-10 19:07:12,825 - RansomwareDetector - DEBUG - Found 3 files in /home/kamli/Documents
+2025-06-10 19:07:12,826 - RansomwareDetector - DEBUG - Found 1 files in /home/kamli/Documents/test
+2025-06-10 19:07:12,826 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/test_files
+2025-06-10 19:07:12,827 - RansomwareDetector - DEBUG - Found 0 files in /home/kamli/test_files
+2025-06-10 19:07:12,928 - RansomwareDetector - DEBUG - Total files: 4, CPU: 12.8, Files: ['/home/kamli/Documents/kamlesh', '/home/kamli/Documents/kamlitesting.txt.pdf', '/home/kamli/Documents/kamlitesting.txt', '/home/kamli/Documents/test/init.txt']
+2025-06-10 19:07:13,815 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/Documents
+2025-06-10 19:07:13,816 - RansomwareDetector - DEBUG - Found 3 files in /home/kamli/Documents
+2025-06-10 19:07:13,816 - RansomwareDetector - DEBUG - Found 1 files in /home/kamli/Documents/test
+2025-06-10 19:07:13,816 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/test_files
+2025-06-10 19:07:13,817 - RansomwareDetector - DEBUG - Found 0 files in /home/kamli/test_files
+2025-06-10 19:07:13,917 - RansomwareDetector - DEBUG - Total files: 4, CPU: 36.8, Files: ['/home/kamli/Documents/kamlesh', '/home/kamli/Documents/kamlitesting.txt.pdf', '/home/kamli/Documents/kamlitesting.txt', '/home/kamli/Documents/test/init.txt']
+2025-06-10 19:07:14,771 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/Documents
+2025-06-10 19:07:14,772 - RansomwareDetector - DEBUG - Found 3 files in /home/kamli/Documents
+2025-06-10 19:07:14,774 - RansomwareDetector - DEBUG - Found 1 files in /home/kamli/Documents/test
+2025-06-10 19:07:14,774 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/test_files
+2025-06-10 19:07:14,774 - RansomwareDetector - DEBUG - Found 0 files in /home/kamli/test_files
+2025-06-10 19:07:14,875 - RansomwareDetector - DEBUG - Total files: 4, CPU: 17.9, Files: ['/home/kamli/Documents/kamlesh', '/home/kamli/Documents/kamlitesting.txt.pdf', '/home/kamli/Documents/kamlitesting.txt', '/home/kamli/Documents/test/init.txt']
+2025-06-10 19:07:16,096 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/Documents
+2025-06-10 19:07:16,097 - RansomwareDetector - DEBUG - Found 3 files in /home/kamli/Documents
+2025-06-10 19:07:16,098 - RansomwareDetector - DEBUG - Found 1 files in /home/kamli/Documents/test
+2025-06-10 19:07:16,098 - RansomwareDetector - DEBUG - Scanning directory: /home/kamli/test_files
+2025-06-10 19:07:16,098 - RansomwareDetector - DEBUG - Found 0 files in /home/kamli/test_files
+2025-06-10 19:07:16,232 - RansomwareDetector - DEBUG - Total files: 4, CPU: 7.8, Files: ['/home/kamli/Documents/kamlesh', '/home/kamli/Documents/kamlitesting.txt.pdf', '/home/kamli/Documents/kamlitesting.txt', '/home/kamli/Documents/test/init.txt']
+2025-06-10 19:07:16,606 - RansomwareDetector - INFO - [BEHAVIORAL] Monitoring stopped.
+2025-06-10 19:07:16,872 - RansomwareDetector - INFO - Stopped all monitoring
